@@ -5,7 +5,7 @@ namespace TDDCursusLibraryTest
     [TestClass]
     public class JaarTest
     {
-        [TestMethod]
+        [TestMethod("Een jaar deelbaar door 400 is een schrikkeljaar")]
         public void IsSchrikkeljaar_DeelbaarDoor400_IsEenSchrikkeljaar()
         {
             // Arrange
