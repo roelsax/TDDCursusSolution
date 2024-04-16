@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCursusLibrary", "TDDCursusLibrary\TDDCursusLibrary.csproj", "{B392B089-97A3-489F-AC34-A198622EF46B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCursusLibraryTest", "TDDCursusLibraryTest\TDDCursusLibraryTest.csproj", "{64BB20AA-FCEF-49CA-8455-3D48E473D8C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B392B089-97A3-489F-AC34-A198622EF46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B392B089-97A3-489F-AC34-A198622EF46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B392B089-97A3-489F-AC34-A198622EF46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BB20AA-FCEF-49CA-8455-3D48E473D8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BB20AA-FCEF-49CA-8455-3D48E473D8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BB20AA-FCEF-49CA-8455-3D48E473D8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BB20AA-FCEF-49CA-8455-3D48E473D8C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
